@@ -4,18 +4,13 @@
 ## A clean, modern and responsive dev portfolio using Tailwind CSS & Next JS
 
 
-<p align="center">
-  <kbd>
-    <img src="https://s9.gifyu.com/images/overview.gif"></img>
-  </kbd>
-</p>
 
 ### Just Simple and well design portfolio to showcase works and skills
  - Useful for the freelancing journey 🚀. You can showcase your skills and the works you have done.   
  - Highly customizable portfolio. You can easily customize it as you want.     
 
 ## Live Demo 🚀
-[don't click here](https://dhavalcode.com)
+[don't click here](https://dees-space.vercel.app/)
 
 ## Technologies Used 🖥️
 
@@ -30,9 +25,7 @@
 
 ## Getting Started
 
-```bash
-# Clone this repository
-git clone https://github.com/dhavalCode/dev-portfolio.git
+
 
 # Go into the repository
 cd dev-portfolio
@@ -74,7 +67,7 @@ EMAIL_TEMPLATE_ID= "YOUR TEMPLATE ID"
 PUBLIC_KEY= "YOUR PUBLIC KEY"
 ```
 - Email JS - [Sign Up](https://dashboard.emailjs.com/sign-up)
-- Quick Tutorial : https://youtu.be/I4DKr1JLC50
+
 
 
 
@@ -82,33 +75,7 @@ PUBLIC_KEY= "YOUR PUBLIC KEY"
 
 #### Personalize page content in `src/mock/profile.js` & modify it as per your need.
 
-```javascript
-export const SOCIAL_LINKS = [
-  {
-    link: 'https://twitter.com/dhavalCode',         // <--- Social handle Link
-    icon: 'akar-icons:twitter-fill',          // <--- Iconify Icon name
-  },
-  {
-    link: 'https://github.com/dhavalcode',
-    icon: 'akar-icons:github-fill',
-  },
-  {
-    link: 'https://linkedin.com/in/dhavalcode',
-    icon: 'akar-icons:linkedin-fill',
-  },
-];
 
-export const HERO_TITLES = ['Dhaval Patel', 'Full-stack Developer', 'Javascript Enthusiast'];
-
-export const aboutParagraph =
-  'Highly motivated and enthusiastic Full Stack Developer with experience in designing, developing and maintaining web applications using technologies such as JavaScript, React, Node.js. ';
-
-export const contactEmail = 'works.dhaval@gmail.com';
-
-export const documentTitle = 'Hello I am Dhaval Patel | Full Stack Developer | Javascript Enthusiast'
-
-
-```
 
 #### Customize Project Section
 
