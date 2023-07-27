@@ -1,0 +1,12 @@
+Have to capture myself 
+
+and make some sizes picture
+
+and here's the file name 
+
+1. android-chrome-192x192.png
+2. android-chrome-512x512.png
+3. apple-touch-icon.png
+4. favicon-16x16.png
+5. favicon-32x32.png
+6. mstile-150x150.png
