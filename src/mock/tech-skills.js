@@ -63,7 +63,7 @@ export const FRONTEND_SKILLS = [
     label: 'Styled Components',
     proficiency: '90%',
     icon: 'simple-icons:styled-components',
-    iconClasses: 'text-4xl',
+    iconClasses: 'text-3xl',
   },
   {
     label: 'Java',
